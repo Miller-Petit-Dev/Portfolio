@@ -7,7 +7,7 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://github.com/Millerpetit/Mi-Portafolio-Personal/blob/main/portfolio/assets/images/Capture.jpg?raw=true)
 
 ## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
+- [https://miller-petit-dev.github.io/Portfolio/](https://miller-petit-dev.github.io/Portfolio/)
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
